@@ -1,0 +1,1 @@
+java -jar target/employer-rest-0.1.0.jar -spring.datasource.url=jdbc:mariadb://localhost/employer  
